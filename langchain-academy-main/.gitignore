@@ -1,0 +1,6 @@
+# Ambientes virtuais
+venv/
+env/
+.env
+.venv
+lc-academy-env/
